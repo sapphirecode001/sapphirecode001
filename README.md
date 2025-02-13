@@ -1,16 +1,15 @@
-## Hi there 👋
+# Sapphire Code
 
-<!--
-**sapphirecode001/sapphirecode001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo à **Sapphire Code**, uma empresa fictícia desenvolvida por estudantes da Etec Basilides de Godoy, focada em inovação, tecnologia e desenvolvimento de software de alta qualidade.
 
-Here are some ideas to get you started:
+## Contribuição
+- **João Lucas dos Anjos** - Desenvolvedor FullStack & DBA(Responsável pelo desenvolvimento do banco de dados relacional)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre
+
+A Sapphire Code tem como objetivo criar soluções eficientes e criativas para diversos setores da tecnologia, com um forte compromisso com a excelência e a inovação.
+
+## Tecnologias Utilizadas
+- **Linguagens:** JavaScript, C#
+- **Frameworks:** Bootstrap, Flutter, ASP.NET
+- **Banco de Dados:** MySQL, SQL Server
