@@ -3,7 +3,7 @@
 Bem-vindo à **Sapphire Code**, uma empresa fictícia desenvolvida por estudantes da Etec Basilides de Godoy, focada em inovação, tecnologia e desenvolvimento de software de alta qualidade.
 
 ## Contribuição
-- **João Lucas dos Anjos** - Desenvolvedor FullStack & DBA(Responsável pelo desenvolvimento do banco de dados relacional)
+- **João Lucas dos Anjos** - Desenvolvedor FullStack & DBA(Responsável pelo desenvolvimento do banco de dados relacional) [Linkedin](https://www.linkedin.com/in/joão-lucas-dos-anjos-pinto-362320320/) | [GitHub](https://github.com/joao-lucas04)
 
 ## Sobre
 
